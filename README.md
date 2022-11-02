@@ -7,6 +7,6 @@
 
 NLW Explorer **Card** - HTML5, CSS3, JS - Git GitHub
 
-<img src='/nlw-copa-card/img/card-blue.png ' width='100%'/>
+<img src='./img/card-blue.png ' width='100%'/>
 
-<img src='/nlw-copa-card/img/card-green.png ' width='100%'/>
+<img src='./img/card-green.png ' width='100%'/>
